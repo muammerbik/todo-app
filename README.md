@@ -1,8 +1,8 @@
-# flutter_to_do_app
+# Todo App
 
-A new Flutter project.
+"This Flutter-based Todo app gives users the ability to manage tasks. The application provides users with basic features such as adding tasks, searching tasks, deleting tasks and updating tasks, as well as additional features such as database integration, tracking the time the task was added, local storage and language support."
 
-## Getting Started
+## Topics
 
 This project is a starting point for a Flutter application.
 
