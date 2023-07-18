@@ -12,4 +12,5 @@
 - hive_flutter
 - get_it
 - easy_localization
-- 
+- hive_generator
+-  build_runner
